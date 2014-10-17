@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zyj:home|Door43 (zyj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zyj|d43-zyj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zyj/archive/master.zip|d43-zyj.zip]]
+
+**Recent Changes**
+{{changes>ns = zyj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zyj|Ethnologue data]]
+
